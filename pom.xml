@@ -36,7 +36,6 @@
     </dependencies>
 
     <build>
-        <finalName>bank-account-api</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
